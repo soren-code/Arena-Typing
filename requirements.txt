@@ -1,0 +1,8 @@
+# Typing Arena - Neon Edition
+# Requirements file for Python dependencies
+
+# Bootstrap themed tkinter widgets for modern UI
+ttkbootstrap==1.10.1
+
+# Note: tkinter comes pre-installed with Python
+# If tkinter is missing, reinstall Python with tcl/tk support
