@@ -16,7 +16,7 @@ You need Python installed on your Windows machine. Follow these steps:
    ```
 6. Download Arena Typing tool from Github 
   ```
-    git clone https://github.com/Madan8249/Arena-Typing.git
+    git clone https://github.com/soren-code/Arena-Typing.git
    ```
 
 #### Step 2: Install Required Libraries
